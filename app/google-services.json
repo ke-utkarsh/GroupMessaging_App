@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473713654434",
+    "firebase_url": "https://utkgmsg.firebaseio.com",
+    "project_id": "utkgmsg",
+    "storage_bucket": "utkgmsg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473713654434:android:a30c87d7b13f315686b5fb",
+        "android_client_info": {
+          "package_name": "com.example.utkgmsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473713654434-mnak4e2lmll63j5fn4g961rvmdbdg6sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDboQ94Tg8r5sSKrXMUfzwFfHszsa_LZmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473713654434-mnak4e2lmll63j5fn4g961rvmdbdg6sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
